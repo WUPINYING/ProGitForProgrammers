@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Program\\GitHub\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers.csproj",
+      "projectUniqueName": "D:\\Program\\VisualStudio\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers.csproj",
       "projectName": "ProGitForProgrammers",
-      "projectPath": "D:\\Program\\GitHub\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers.csproj",
+      "projectPath": "D:\\Program\\VisualStudio\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Program\\GitHub\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers\\obj\\",
+      "outputPath": "D:\\Program\\VisualStudio\\ProGitForProgrammers\\ProGitForProgrammers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
